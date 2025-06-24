@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Variabile per tenere traccia del nome del file corrente
   let currentFileName = null;
-
+ 
   // ==========================================================
   // Funzione: Aggiornamento Dinamico dello Stile del Testo
   // ==========================================================
