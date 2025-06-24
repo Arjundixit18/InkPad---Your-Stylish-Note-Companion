@@ -52,4 +52,4 @@
 
 ```bash
 git clone https://github.com/Arjundixit18/InkPad---Your-Stylish-Note-Companion
-cd Notepad-JS
+cd InkPad - Your Stylish Note Companion
